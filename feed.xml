@@ -7,7 +7,7 @@
     <link>https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main</link>
     <language>en-au</language>
     <description>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</description>
-    <lastBuildDate>Sun, 12 Apr 2026 16:53:56 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:00:04 +1000</lastBuildDate>
     <itunes:author>Justin</itunes:author>
     <itunes:summary>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</itunes:summary>
     <itunes:category text="Health &amp; Fitness">
@@ -54,7 +54,7 @@
     <item>
       <title>Day 04 — Open Awareness</title>
       <description>Foundations meditation, session four. Intent: practising open, choiceless awareness. 10-minute guided practice.</description>
-      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day04_open_awareness.m4a" length="9879523" type="audio/x-m4a"/>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day04_open_awareness.m4a" length="9882353" type="audio/x-m4a"/>
       <guid isPermaLink="false">meditation-day04</guid>
       <pubDate>Wed, 08 Apr 2026 06:00:00 +1000</pubDate>
       <itunes:duration>10:00</itunes:duration>
@@ -84,7 +84,7 @@
     <item>
       <title>Day 07 — Yoga Nidra</title>
       <description>Foundations meditation, session seven. Intent: experiencing deep conscious rest through yoga nidra. 10-minute guided practice.</description>
-      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day07_yoga_nidra.m4a" length="9895244" type="audio/x-m4a"/>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day07_yoga_nidra.m4a" length="9891946" type="audio/x-m4a"/>
       <guid isPermaLink="false">meditation-day07</guid>
       <pubDate>Sat, 11 Apr 2026 06:00:00 +1000</pubDate>
       <itunes:duration>10:00</itunes:duration>
@@ -94,7 +94,7 @@
     <item>
       <title>Day 08 — Vipassana Breath</title>
       <description>Vipassana meditation, session one. Intent: anchoring attention precisely at the breath, observing sensation rather than concept. 10-minute guided practice.</description>
-      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day08_vipassana_breath.m4a" length="9887199" type="audio/x-m4a"/>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day08_vipassana_breath.m4a" length="9889428" type="audio/x-m4a"/>
       <guid isPermaLink="false">meditation-day08</guid>
       <pubDate>Sun, 12 Apr 2026 06:00:00 +1000</pubDate>
       <itunes:duration>10:00</itunes:duration>
