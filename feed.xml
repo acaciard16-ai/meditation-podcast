@@ -7,7 +7,7 @@
     <link>https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main</link>
     <language>en-au</language>
     <description>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</description>
-    <lastBuildDate>Sun, 12 Apr 2026 16:44:37 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 16:53:56 +1000</lastBuildDate>
     <itunes:author>Justin</itunes:author>
     <itunes:summary>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</itunes:summary>
     <itunes:category text="Health &amp; Fitness">
@@ -54,10 +54,10 @@
     <item>
       <title>Day 04 — Open Awareness</title>
       <description>Foundations meditation, session four. Intent: practising open, choiceless awareness. 10-minute guided practice.</description>
-      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day04_open_awareness.m4a" length="9776011" type="audio/x-m4a"/>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day04_open_awareness.m4a" length="9879523" type="audio/x-m4a"/>
       <guid isPermaLink="false">meditation-day04</guid>
       <pubDate>Wed, 08 Apr 2026 06:00:00 +1000</pubDate>
-      <itunes:duration>09:53</itunes:duration>
+      <itunes:duration>10:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
