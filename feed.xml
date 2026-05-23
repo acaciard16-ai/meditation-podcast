@@ -7,7 +7,7 @@
     <link>https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main</link>
     <language>en-au</language>
     <description>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</description>
-    <lastBuildDate>Sat, 23 May 2026 21:32:34 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:13:20 +1000</lastBuildDate>
     <itunes:author>Justin</itunes:author>
     <itunes:summary>AI-generated guided meditation. Daily practice through mindfulness and meditation traditions, progressing from foundations through Vipassana, Zen, Metta, and beyond.</itunes:summary>
     <itunes:category text="Health &amp; Fitness">
@@ -99,6 +99,56 @@
       <pubDate>Sun, 12 Apr 2026 06:00:00 +1000</pubDate>
       <itunes:duration>10:00</itunes:duration>
       <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Day 09 — Vipassana Body Sweep</title>
+      <description>Vipassana meditation, session two. Intent: extending precise observation from the breath into the whole body. 10-minute guided practice.</description>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day09_vipassana_body_sweep.m4a" length="9870489" type="audio/x-m4a"/>
+      <guid isPermaLink="false">meditation-day09</guid>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +1000</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Day 10 — Vipassana Impermanence</title>
+      <description>Vipassana meditation, session three. Intent: observing impermanence in the field of sensation. 10-minute guided practice.</description>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day10_vipassana_impermanence.m4a" length="9878832" type="audio/x-m4a"/>
+      <guid isPermaLink="false">meditation-day10</guid>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +1000</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Day 11 — Vipassana Equanimity</title>
+      <description>Vipassana meditation, session four. Intent: meeting discomfort with equanimity. 10-minute guided practice.</description>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day11_vipassana_equanimity.m4a" length="9869544" type="audio/x-m4a"/>
+      <guid isPermaLink="false">meditation-day11</guid>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +1000</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Day 12 — Vipassana Subtle</title>
+      <description>Vipassana meditation, session five. Intent: resting in free attention across the field of sensation. 10-minute guided practice.</description>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day12_vipassana_subtle.m4a" length="9867723" type="audio/x-m4a"/>
+      <guid isPermaLink="false">meditation-day12</guid>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +1000</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Day 13 — Vipassana Choiceless</title>
+      <description>Vipassana meditation, session six. Intent: choiceless awareness — observing whatever arises, without preference. 10-minute guided practice.</description>
+      <enclosure url="https://raw.githubusercontent.com/acaciard16-ai/meditation-podcast/main/episodes/day13_vipassana_choiceless.m4a" length="9865591" type="audio/x-m4a"/>
+      <guid isPermaLink="false">meditation-day13</guid>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 +1000</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
